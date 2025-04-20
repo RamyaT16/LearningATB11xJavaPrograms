@@ -5,8 +5,9 @@ public class If_condition_Ex1 {
         /** syntax is
          * if (conditon){
          * ........................abc
-         * else{
+         * else if{
          * ..........................xyz
+         * else
          }
          if is condition not loop
          */
